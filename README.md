@@ -1,1 +1,1 @@
-High performance web server capable of handling 500,000+ concurrent HTTP requests.
+High performance web server designed using multithreading, socket programming, and TCP/IP communication protocols.
